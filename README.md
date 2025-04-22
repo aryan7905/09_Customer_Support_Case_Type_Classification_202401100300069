@@ -88,6 +88,9 @@ print(f"Confidence: {result['confidence']}")
 ## 📊 Results
 
 The models typically achieve accuracy between 80-95% depending on the dataset quality and class distribution. Logistic Regression usually outperforms Naive Bayes for this task.
+![{8C47DA57-E0DA-44D5-8F3A-815E29E7C28A}](https://github.com/user-attachments/assets/d94a190c-4546-47d6-a0ca-886137f51a39)
+![{69A44666-3158-474B-9656-F555538B3062}](https://github.com/user-attachments/assets/2bddf2ef-a469-4d4f-b404-8b6d4b9d0d40)
+
 
 ![Performance Chart](/sample_images/performance_metrics.png)
 
