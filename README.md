@@ -6,7 +6,6 @@ A machine learning solution that automatically classifies customer support cases
 
 This project provides a streamlined text classification system built in Python using Google Colab. It takes customer support messages and categorizes them to help customer service teams prioritize and route inquiries more efficiently.
 
-![Classification Process](/sample_images/classification_process.png)
 
 ## ✨ Features
 
